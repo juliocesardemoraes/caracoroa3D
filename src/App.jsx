@@ -13,6 +13,7 @@ function App() {
     //Botão pra mostrar cara ou coroa
     //Adicionando comentario
     <div className="App">
+      <h1>TESTE</h1>
       <CaraCoroa></CaraCoroa>
     </div>
   );
