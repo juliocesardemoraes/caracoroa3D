@@ -8,12 +8,7 @@ function App() {
   const [count, setCount] = useState(0);
 
   return (
-    //Titulo CARACOROA
-    //Renderização da moeda
-    //Botão pra mostrar cara ou coroa
-    //Adicionando comentario
     <div className="App">
-      <h1>TESTE</h1>
       <CaraCoroa></CaraCoroa>
     </div>
   );
