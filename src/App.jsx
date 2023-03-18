@@ -11,6 +11,7 @@ function App() {
     //Titulo CARACOROA
     //Renderização da moeda
     //Botão pra mostrar cara ou coroa
+    //Adicionando comentario
     <div className="App">
       <CaraCoroa></CaraCoroa>
     </div>
