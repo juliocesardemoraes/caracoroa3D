@@ -1,5 +1,8 @@
-# caracoroa3D
-um projeto de cara ou coroa em 3d usando spline
+# Cara ou Coroa em 3D
+Um projeto de cara ou coroa em 3d usando spline
+
+# Acesse o site
+caracoroa.vercel.app
 
 # Como rodar
 
